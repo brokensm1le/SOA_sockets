@@ -32,7 +32,7 @@ pip3 install opencv-python
 
 python client.py 
 ```
-Вводим ip сервера.
+Вводим ip сервера(будет выведен после запуска Docker-а).
 
 ## Интерфейс
 
